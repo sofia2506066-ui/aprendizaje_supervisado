@@ -1,6 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
+xgboost
+lightgbm
 flask
 joblib
-matplotlib
-pandas
-scikit-learn
-seaborn
